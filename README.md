@@ -50,18 +50,26 @@ The metric uses display parameters such as physical width/height (m), horizontal
 
 cv2.cvtColor is very slow on macOS with Python 3.6.10 and visualization of the outputs take a very long time. If you experience this, you may try running with Python 3.8.
 
-## How to cite
+## How to cite using BibTeX
 
 ```
-@article{tursun2022,
-  title={Perceptual visibility model for temporal contrast changes in periphery},
-  author={Tursun, Cara and Didyk, Piotr},
-  journal={ACM Transactions on Graphics},
-  volume={42},
-  number={2},
-  pages={1--16},
-  year={2022},
-  publisher={ACM New York, NY}
+@article{Cara2023,
+  author = {Tursun, Cara and Didyk, Piotr},
+  title = {Perceptual Visibility Model for Temporal Contrast Changes in Periphery},
+  year = {2022},
+  issue_date = {April 2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {42},
+  number = {2},
+  issn = {0730-0301},
+  url = {https://doi.org/10.1145/3564241},
+  doi = {10.1145/3564241},
+  journal = {ACM Trans. Graph.},
+  month = {nov},
+  articleno = {20},
+  numpages = {16},
+  keywords = {Temporal visibility metric, temporal change perception, spatio-temporal sensitivity, imperceptible visual change}
 }
 ```
 
