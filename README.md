@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cara86t/TemporalVisibility)
+
 # Perceptual Visibility Model for Temporal Contrast Changes in Periphery
 
 ## Description
