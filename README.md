@@ -32,8 +32,6 @@ The libraries are also provided in "requirements.txt" file. The recommended way 
 pip install -r requirements.txt
 ```
 
-You may need to install Git LFS to clone this repository successfully with "videos_taa" directory: https://git-lfs.com/
-
 ## Usage
 
 Some sample videos are provided in the directory "videos_taa". If the Python environment is set up correctly, executing the Bash script "test_run_vid.sh" should run the predictor for a sample video and save the results under "test_run" directory.
